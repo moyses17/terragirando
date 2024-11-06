@@ -10,5 +10,4 @@ function draw() {
   sphere(140, 160); //esfera 3D
 
 
-
 }
