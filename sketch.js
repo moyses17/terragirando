@@ -9,3 +9,6 @@ function draw() {
   texture(terra); //textura da terra, Imagem.
   sphere(140, 160); //esfera 3D
 
+
+
+}
